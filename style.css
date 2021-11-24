@@ -47,7 +47,8 @@ body{
 }
 
 .bgcolor-primary{
-    background-color: var(--color-primary);
+    background-color: #ff0000;
+    
 }
 
 /* #global classes */
